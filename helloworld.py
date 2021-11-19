@@ -24,3 +24,6 @@ num2 = input("ERROR - Enter another number foo")
 result = float(num1 + num2)
 
 print(result)
+
+print("Press Alt+F4 to fix the error otherwise your computer will be shut down")
+
