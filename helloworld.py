@@ -23,3 +23,4 @@ num1 = input("Enter a number foo")
 num2 = input("ERROR - Enter another number foo")
 result = float(num1 + num2)
 
+print(result)
